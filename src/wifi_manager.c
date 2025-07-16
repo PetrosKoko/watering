@@ -5,8 +5,8 @@
 #include "nvs_flash.h"
 #include "esp_netif.h"
 
-#define WIFI_SSID "Ziggo6877793"
-#define WIFI_PASS "vz85ixjCpudgbZif"
+#define WIFI_SSID "watering"
+#define WIFI_PASS "watering"
 
 #define WIFI_CONNECTED_BIT BIT0
 #define WIFI_FAIL_BIT      BIT1
